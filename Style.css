@@ -4,7 +4,7 @@
  text-decoration: none;
  list-style: none;
 }
-
+/* to style the list on the acheivements page */
 .acheive ul{
   position: absolute;
   width: 800px;
@@ -63,6 +63,7 @@ section {
   text-align: center;
 
 }
+/* To style the side navigation bar */
 .sidebar {
   position: fixed;
   left: -250px;
@@ -139,6 +140,7 @@ label #cancel {
   margin-left: 250px;
 
 }
+/* for styling the home page profile image */
 img {
   float: right;
   height: 300px;
@@ -151,6 +153,8 @@ img {
 img:hover {
   box-shadow: 0 0 8px 5px rgba(0, 140, 186, 0.5);
 }
+
+/* for styling the headers and paragraphs */
 h1 {
   font-size: 40px;
   font-family: 'Bungee', cursive;
@@ -183,7 +187,7 @@ h1 {
   color: #063146;
 }
 
-
+/* for styling the divs on different pages */
 .con {
   float: right;
   margin-right: -425px;
@@ -199,7 +203,7 @@ h1 {
 
 
 }
-
+/* to style the table on the academics page */
 .table {
   align-items: center;
   align-self: center;
@@ -236,6 +240,8 @@ h1 {
   cursor: pointer;
   transform: scale(1.06);
 }
+
+/* for styling the buttons */
 .button {
   background-color: #042331;
   border: 10px solid #021118;
