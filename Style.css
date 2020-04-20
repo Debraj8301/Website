@@ -57,7 +57,7 @@
 section {
   background: url("bimage.jpg");
   background-size: cover;
-  height: 100vh;
+  height: 120vh;
   transition: all 0.5s;
   cursor: pointer;
   text-align: center;
