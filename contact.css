@@ -11,6 +11,7 @@ section {
   height: 100vh;
   transition: all 0.5s;
 }
+/* for styling the contact page division */
 .container {
   width: 1450px;
   margin: 0 auto;
@@ -65,7 +66,7 @@ section {
   transition: 0.5s;
   border-radius: 8px;
 }
-
+/* for the transition effect on the phone and email icons */
 .container .box .icon .fab:hover ~ h4:before{
 
   left: -100%;
@@ -78,7 +79,7 @@ section {
   left: -100%;
 }
 
-
+/* for styling the back button */
 #f{
   margin-left: 1300px;
   margin-top: 180px;
